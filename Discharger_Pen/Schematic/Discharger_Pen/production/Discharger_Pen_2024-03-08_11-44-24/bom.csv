@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,D_SOD-123,1, 4.3V 0.5W,
+D2,D_SOD-123,1,4.3V 0.5W,
+"D3, D4, D5, D6",D_SOD-523,4,RB521S30,
+"D7, D8",0805,2,0805 Blue,
+J1,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,1,To power resistors: 3x3.3kΩ 5W,
+J2,TestPoint_THTPad_3.0x3.0mm_Drill1.5mm,1,Ground wire,
+"R1, R2",0805,2,220Ω,
