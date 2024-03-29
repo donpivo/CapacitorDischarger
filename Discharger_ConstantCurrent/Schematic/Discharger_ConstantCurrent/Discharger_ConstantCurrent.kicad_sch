@@ -884,7 +884,7 @@
     (property "Reference" "R2" (at 73.66 46.355 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1kΩ 1W" (at 74.295 48.26 90)
+    (property "Value" "100Ω 1W" (at 74.295 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" (at 74.295 42.037 90)
